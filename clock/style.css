@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap');
+#body{
+    display: flex;
+    background-image: url(file:///Users/bharatkumar/Desktop/Java%20Script/clock/clock%20scenary.jpeg);
+    margin-top: 280px;
+    margin-left: 390px;
+}
+.hours1{
+    text-align: center;
+    border: solid black 2px;
+    width: 60px;
+    height: 60px;
+    padding: 39px;
+    font-size: 30px;
+    padding-right: 79px;
+    background-color: rgb(216, 179, 216);
+    border-radius: 30px;
+    font-family: 'Domine', serif;
+
+
+
+
+}
+.minutes1{
+    text-align: center;
+    border: solid black 2px;
+    width: 80px;
+    height: 60px;
+    padding: 39px;
+    font-size: 30px;
+    padding-right: 79px;
+    background-color: rgb(216, 179, 216);
+    border-radius: 30px;
+    font-family: 'Domine', serif;
+}
+.seconds1{
+    text-align: center;
+    border: solid black 2px;
+    width: 80px;
+    height: 60px;
+    padding: 39px;
+    font-size: 30px;
+    padding-right: 79px;
+    background-color: rgb(216, 179, 216);
+    border-radius: 30px;
+    font-family: 'Domine', serif;
+}
+.ampm1{
+    text-align: center;
+    border: solid black 2px;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    margin-top: 70px;
+    background-color: green;
+    border-radius: 10px;
+    font-family: 'Domine', serif;
+}
